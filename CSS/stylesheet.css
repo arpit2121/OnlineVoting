@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: 
+    #7adb2b9f;
+}
+#font{
+    padding: 5px;
+   font-family: cursive;
+}
+#font h1{
+    font-family: cursive
+}
+input{
+    font-size: small;
+    border-radius: 5px;
+    padding: 10px;
+}
+#dropbox{
+    padding: 5px;
+    border-radius: 5px;
+    width: 15%;
+}
+#loginbutton{
+    padding: 5px;
+    border-radius: 5px;
+    background-color: rgba(4, 182, 236, 0.87);
+    color: white;
+}
+
+#address{
+    padding: 10px;
+}
